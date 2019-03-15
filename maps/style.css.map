@@ -1,0 +1,1 @@
+{"version":3,"file":"../demo1/style.css","sources":["style.scss"],"sourcesContent":["body\n{\n  background-color:red;\n  font-family: 'Courier New', Courier, monospace;\n}"],"names":[],"mappings":"AAAA,AAAA,IAAI,CACJ;EACE,gBAAgB,EAAC,GAAG;EACpB,WAAW,EAAE,iCAAiC,GAC/C"}
